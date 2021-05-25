@@ -135,3 +135,5 @@ outputs/realdata/
 outputs/singletobinary/
 
 ashnaData/
+
+.idea/
